@@ -1,0 +1,26 @@
+body {
+  font-family: "Yantramanav", sans-serif;
+  color: white;
+  
+  
+  background-image: url(https://media.istockphoto.com/photos/meadow-near-village-in-autumn-mountains-at-sunrise-picture-id481235068?k=20&m=481235068&s=612x612&w=0&h=Tfwo9vuxhmuCUWiG7S8M-TmDOkH1lzUlQ4Vf9QffSoY=);
+
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  object-fit: contain;
+  overflow: hidden;
+  font-weight: bolder;
+}
+
+
+footer {
+
+  position: fixed;
+  bottom: 0px;
+  text-align: center;
+  padding-left: 25%;
+}
+.container {
+  max-width: 800px;
+}
